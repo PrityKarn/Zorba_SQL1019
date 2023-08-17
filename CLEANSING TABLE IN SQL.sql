@@ -1,3 +1,4 @@
+-- GIT sample code file 
 ---CLEANSING TABLE IN  SQL SERVER
 select * from dimcustomer
 select customerkey,firstname,yearlyincome,datefirstpurchase from dimcustomer
